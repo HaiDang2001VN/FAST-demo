@@ -1,0 +1,8 @@
+﻿  Tester.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  4 of 127 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tester.vcxproj -> G:\Tin\ComputerVision\Test\Tester\x64\Release\Tester.exe
