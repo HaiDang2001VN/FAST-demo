@@ -1,8 +1,10 @@
 ﻿  Tester.cpp
+g:\tin\computervision\researchs\test\tester\tester\tester.cpp(16): warning C4477: 'printf' : format string '%lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+g:\tin\computervision\researchs\test\tester\tester\tester.cpp(16): warning C4477: 'printf' : format string '%lf' requires an argument of type 'double', but variadic argument 2 has type 'int'
 LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
   Generating code
-  4 of 127 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
-    3 functions were new in current compilation
+  0 of 734 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Tester.vcxproj -> G:\Tin\ComputerVision\Test\Tester\x64\Release\Tester.exe
+  Tester.vcxproj -> G:\Tin\ComputerVision\Researchs\Test\Tester\x64\Release\Tester.exe
