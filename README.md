@@ -1,4 +1,4 @@
-# FAST-demo
+# Pose Estimation
 ### Installation
 
 Code này chạy trên Visual Studio 2017 (vì em chưa viết CMake được nên chưa port lên Ubuntu được).
